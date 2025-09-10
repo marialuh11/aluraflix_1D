@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: black;
     background: rgb(0, 32, 255
    margin: 0px;                 
 }
@@ -8,4 +8,11 @@ header {
     padding: 20px;
   font-size: 32px;
   color: rgb(82, 185, 255)
+}
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
